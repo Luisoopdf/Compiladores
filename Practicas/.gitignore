@@ -1,0 +1,11 @@
+# 1. Ignorar todo
+*
+
+# 2. Permitir el gitignore
+!.gitignore
+
+# 3. Permitir los archivos específicos de esta carpeta
+!gramatica.y
+!racional.c
+!racional.h
+!racional.y
