@@ -1,0 +1,11 @@
+# 1. Ignorar todo en esta carpeta y subcarpetas
+*
+
+# 2. Excepción: Permitir que se guarde el archivo .gitignore mismo
+!.gitignore
+
+# 3. Excepción: Permitir tus archivos específicos
+!gramatica.y
+!racional.c
+!racional.h
+!racional.y
